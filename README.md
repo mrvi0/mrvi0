@@ -1,4 +1,4 @@
-# 👋 Привет, я Vi! 
+# 👋 Hello, I'm Vi!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -6,19 +6,19 @@
 
 ---
 
-## 🚀 О себе
+## 🚀 About Me
 
-Я разработчик, который **пилит микросервисы и пытается сделать их рабочими** 😄
+I'm a developer who **builds microservices and tries to make them work** 😄
 
-- 🔧 Создаю и поддерживаю микросервисную архитектуру
-- 🐍 Python разработчик
-- 🤖 Увлекаюсь автоматизацией и ботами
-- 🌐 Работаю с веб-технологиями
-- 📱 Разрабатываю Telegram ботов
+- 🔧 Creating and maintaining microservices architecture
+- 🐍 Python developer
+- 🤖 Passionate about automation and bots
+- 🌐 Working with web technologies
+- 📱 Developing Telegram bots
 
 ---
 
-## 🛠️ Технологии
+## 🛠️ Technologies
 
 <div align="center">
   
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrvi0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -42,12 +42,12 @@
 
 ---
 
-## 🎯 Избранные проекты
+## 🎯 Featured Projects
 
 <div align="center">
 
 ### 🤖 [VTT Bot](https://github.com/mrvi0/vtt-bot)
-Telegram бот для перевода голосовых и видео сообщений в текст
+Telegram bot for translating voice and video messages into text
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-API-green.svg)
@@ -55,7 +55,7 @@ Telegram бот для перевода голосовых и видео соо�
 ---
 
 ### 📝 [Termux Pastebin](https://github.com/mrvi0/termux-pastebin)
-Самостоятельно размещаемый аналог Pastebin
+Self-hosted Pastebin alternative
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Yes-orange.svg)
@@ -63,7 +63,7 @@ Telegram бот для перевода голосовых и видео соо�
 ---
 
 ### 🌐 [GitHub Pages](https://github.com/mrvi0/mrvi0.github.io)
-Персональный сайт на GitHub Pages
+Personal website on GitHub Pages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat&logo=github&logoColor=white)
@@ -72,7 +72,7 @@ Telegram бот для перевода голосовых и видео соо�
 
 ---
 
-## 📈 Активность
+## 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvi0&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
@@ -80,7 +80,7 @@ Telegram бот для перевода голосовых и видео соо�
 
 ---
 
-## 🏆 Достижения
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrvi0&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -88,7 +88,7 @@ Telegram бот для перевода голосовых и видео соо�
 
 ---
 
-## 📞 Связаться со мной
+## 📞 Get In Touch
 
 <div align="center">
   
@@ -100,29 +100,10 @@ Telegram бот для перевода голосовых и видео соо�
 
 ---
 
-## 🎉 Забавный факт
-
-> *"Лучший код - это тот, который работает. Второй лучший - тот, который хотя бы компилируется"* 😅
-
----
-
 <div align="center">
   
-### 🐍 Случайная Python шутка
-  
-```python
-# Почему Python разработчики носят очки?
-# Потому что они не могут C# 😎
-```
+**Thanks for visiting my profile!** 🚀
 
-</div>
-
----
-
-<div align="center">
-  
-**Спасибо за посещение моего профиля!** 🚀
-
-*Не забудь поставить звездочку на интересные проекты! ⭐*
+*Don't forget to star interesting projects! ⭐*
 
 </div> 
