@@ -40,3 +40,5 @@ Thumbs.db
 
 # Logs
 *.log 
+oss-*.py
+oss-*.md
