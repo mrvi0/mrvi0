@@ -37,7 +37,6 @@ I'm a developer who **builds microservices and tries to make them work** 😄
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrvi0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvi0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
