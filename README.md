@@ -35,9 +35,7 @@ I'm a developer who **builds microservices and tries to make them work** 😄
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvi0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+
 
 ---
 
