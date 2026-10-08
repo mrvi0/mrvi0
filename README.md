@@ -2,64 +2,69 @@
 
 ### Hi, I'm Vi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=7DCFFF&center=true&vCenter=true&width=520&lines=Microservices+architect;Python%2C+automation%2C+bots;Open+source+enthusiast" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=7DCFFF&center=true&vCenter=true&width=560&lines=DevOps+%2F+Python+engineer;Backups+that+actually+restore;Tools+that+stay+running+in+production" alt="Typing introduction" />
 
-Backend-leaning developer — **microservices**, **Python**, and tooling that stays running in production.
+I build small tools for production reliability. Ex-head of a web studio.
 
-[![GitHub followers](https://img.shields.io/github/followers/mrvi0?label=Followers&style=flat&logo=github&color=7aa2f7&labelColor=1a1b26)](https://github.com/mrvi0?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrvi0&query=%24.public_repos&label=public%20repos&style=flat&logo=github&color=bb9af7&labelColor=1a1b26)](https://github.com/mrvi0?tab=repositories)
+**Now building → [restore-drill](https://github.com/mrvi0/restore-drill)** · [early access](https://restore-drill.b4dcat.tech/#early-access)
 
 </div>
 
 ---
 
-## Focus
+## Projects
 
-- Architecture and operations for **distributed services**
-- **Python** services, scripting, and developer ergonomics
-- **Automation**, integrations, and **Telegram** bots
-- Web stack where it matters — **HTML**, APIs, **Git** workflows
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**[restore-drill](https://github.com/mrvi0/restore-drill)**<br/>
+Nightly restore test for Postgres backups in a throwaway container. Exit 0/1 for cron, Telegram alerts.<br/><br/>
+<img src="https://img.shields.io/github/stars/mrvi0/restore-drill?style=flat&color=7aa2f7&labelColor=1a1b26" alt="stars" />
+
+</td>
+<td width="33%" valign="top">
+
+**[pyker](https://github.com/mrvi0/pyker)**<br/>
+Lightweight process manager for Python scripts and bots. No sudo, log rotation, venv support.<br/><br/>
+<img src="https://img.shields.io/github/stars/mrvi0/pyker?style=flat&color=7aa2f7&labelColor=1a1b26" alt="stars" />
+
+</td>
+<td width="33%" valign="top">
+
+**[conf-watch](https://github.com/mrvi0/conf-watch)**<br/>
+Git-based versioning, diff and rollback for config files. CLI and web UI.<br/><br/>
+<img src="https://img.shields.io/github/stars/mrvi0/conf-watch?style=flat&color=7aa2f7&labelColor=1a1b26" alt="stars" />
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram_bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 
----
+## Writing
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrvi0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvi0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvi0&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%2031%20days)" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrvi0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</p>
-
----
+- [Your Postgres backup exists. Does it restore?](https://dev.to/mrvi0/your-postgres-backup-exists-does-it-restore-2odf)
+- [Monitoring OpenVPN with Prometheus and Grafana](https://dev.to/mrvi0/monitoring-openvpn-with-prometheus-and-grafana-a-complete-guide-5418)
+- [Secure SSH monitoring with real-time Telegram alerts](https://dev.to/mrvi0/secure-ssh-monitoring-with-real-time-telegram-alerts-1oje)
 
 ## Contact
 
 <p align="center">
   <a href="https://t.me/b4dcat"><img alt="Telegram @b4dcat" src="https://img.shields.io/badge/Telegram-@b4dcat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/mrvi0"><img alt="GitHub @mrvi0" src="https://img.shields.io/badge/GitHub-@mrvi0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:support@b4dcat.ru"><img alt="Email" src="https://img.shields.io/badge/Email-support%40b4dcat.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:support@b4dcat.ru"><img alt="Email" src="https://img.shields.io/badge/Email-support%40b4dcat.ru-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://dev.to/mrvi0"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-mrvi0-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <sub>Thanks for stopping by — star a repo if something was useful.</sub>
-</div>
