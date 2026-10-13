@@ -6,7 +6,7 @@
 
 I build small tools for production reliability. Ex-head of a web studio.
 
-**Now building → [restore-drill](https://github.com/mrvi0/restore-drill)** · [early access](https://restore-drill.b4dcat.tech/#early-access)
+**Now building → [restore-drill](https://github.com/mrvi0/restore-drill)** · [early access](https://restore-drill-site.b4dcat.tech/#early-access)
 
 </div>
 
